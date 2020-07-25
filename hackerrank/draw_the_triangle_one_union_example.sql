@@ -2,7 +2,7 @@
 
 -- MySQL
 select
-    lpad('',n.n*2,'* ')
+    repeat('* ', n.n)
 from (
     select
         ones.n + tens.n*10 as n
