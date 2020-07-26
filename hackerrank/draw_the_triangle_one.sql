@@ -1,6 +1,6 @@
 -- https://www.hackerrank.com/challenges/draw-the-triangle-1/problem
 
--- MySQL
+-- MySQL. First solution.
 select
     repeat('* ', n.n)
 from (
@@ -18,7 +18,7 @@ from (
         n desc
 ) n;
 
--- Oracle
+-- Oracle. Second solution.
 with numbers as (
     select
         a.n
