@@ -1,7 +1,6 @@
 -- https://www.hackerrank.com/challenges/occupations/problem
--- Oracle
 
--- Solution 1: multiple joins
+-- Oracle. First solution.
 with o as (
     select
         name,
@@ -38,7 +37,7 @@ on
     orn.rn = oa.rn and
     oa.occupation = 'Actor';
 
--- Solution 2: group by and decode
+-- Oracle. Second solution.
 select
     min(decode(occupation,'Doctor',name)),
     min(decode(occupation,'Professor',name)),
