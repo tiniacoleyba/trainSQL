@@ -12,3 +12,16 @@ Repository of SQL resources used for learning, training, developing, and competi
 - [PostgreSQL tutorials](https://www.postgresqltutorial.com/).
 - [MySQL tutorials](https://www.mysqltutorial.org/).
 - [ModernSQL](https://modern-sql.com/) webpage.
+
+## My favorites
+- harry_potter_and_wands.
+- the_report.
+- top_competitors.
+
+## Solved
+- Basic select.
+- Working on: Basic join.
+- To do: advanced select.
+- To do: aggregation.
+- To do: advanced join.
+- To do: alternative queries.
