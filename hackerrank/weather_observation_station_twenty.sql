@@ -17,3 +17,12 @@ where
 order by
     pr
 limit 1;
+
+-- MySQL. Second solution.
+select
+    round(s.lat_n,4) median
+from
+    station s
+where
+    (select count(lat_n) from station where lat_n <= s.lat_n) =
+    (select count(lat_n) from station where lat_n >= s.lat_n);
