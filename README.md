@@ -21,7 +21,7 @@ Repository of SQL resources used for learning, training, developing, and competi
 ## Solved
 - Basic select.
 - Basic join.
-- Working on: aggregation.
-- To do: advanced select.
+- Aggregation.
+- Working on: advanced select.
 - To do: advanced join.
 - To do: alternative queries.
