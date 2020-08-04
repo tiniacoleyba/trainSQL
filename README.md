@@ -17,6 +17,7 @@ Repository of SQL resources used for learning, training, developing, and competi
 - harry_potter_and_wands.
 - the_report.
 - top_competitors.
+- sql_project_planning.
 
 ## Solved
 - Basic select.
