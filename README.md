@@ -11,7 +11,9 @@ Repository of SQL resources used for learning, training, developing, and competi
 - [W3Schools SQL tutorials](https://www.w3schools.com/sql/default.asp).
 - [PostgreSQL tutorials](https://www.postgresqltutorial.com/).
 - [MySQL tutorials](https://www.mysqltutorial.org/).
-- [ModernSQL](https://modern-sql.com/) webpage.
+- [ModernSQL](https://modern-sql.com/) webpage
+- [Recursive CTE 1](https://www.essentialsql.com/recursive-ctes-explained/)
+- [Recursive CTE 2](https://mariadb.com/kb/en/recursive-common-table-expressions-overview/)
 
 ## My favorites
 - harry_potter_and_wands.
