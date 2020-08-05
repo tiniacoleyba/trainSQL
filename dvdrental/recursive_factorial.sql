@@ -1,3 +1,6 @@
+-- https://mariadb.com/kb/en/recursive-common-table-expressions-overview/
+-- https://www.essentialsql.com/recursive-ctes-explained/
+
 with recursive f (n,fact) as (
 	select 1,1
 	union all
