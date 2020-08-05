@@ -1,4 +1,6 @@
 -- https://www.hackerrank.com/challenges/sql-projects/problem
+-- https://mariadb.com/kb/en/recursive-common-table-expressions-overview/
+-- https://www.essentialsql.com/recursive-ctes-explained/
 
 -- Oracle.
 with p (start_date, end_date, days) as (
