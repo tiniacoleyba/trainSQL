@@ -28,3 +28,7 @@ Repository of SQL resources used for learning, training, developing, and competi
 - Advanced select.
 - Alternative queries.
 - Advanced join.
+
+## Vocabulary
+SQL clause, grouping by clause, grouping sets, rollup, cube, empty grouping set (), table, column, row, relation,
+Database, scan, performance, syntax, grand total, subtotal, 
